@@ -73,7 +73,7 @@ Create a new component called `Links`. In this component, display the following:
 - a `<h3>` element with the text of "Links"
 - a `<a>` element with its `href` and text set to the user's Github link, passed
   down as a prop
-- a second `<a>` element with its `href` and text set to the user's LinkedIn
+- a second `<a>` element with its `href` and text set to the user's linkedin
   link, passed down as a prop
 
 ## Resources
